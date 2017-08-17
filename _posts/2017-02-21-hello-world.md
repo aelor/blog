@@ -1,5 +1,5 @@
 ---
-title: Hello World - TheReviewIndex
+title: Hello World - TheRustedBlade
 description: The first blog post to introduce TheReviewIndex.
 header: he110 w0r1d
 ---

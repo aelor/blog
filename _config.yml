@@ -1,11 +1,11 @@
 # Site settings
-title: Blog - technology and science at TheReviewIndex
-description: "A blog for sharing thoughts on technology, science and insights at TheReviewIndex."
-url: "http://www.thereviewindex.github.io/blog"
+title: Blog | RustedBlade
+description: "A blog for sharing what we do and how we do it at RustedBlade"
+url: "https://www.rustedblade.com/blog"
 author:
-  name: "The Review Index"
-  email: "root@thereviewindex.com"
-  url: "https://thereviewindex.com"
+  name: "RustedBlade"
+  email: "rustedbladein@gmail.com"
+  url: "https://www.rustedblade.com"
 
 # Build settings
 baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
